@@ -12,6 +12,8 @@
 
 The **Metaverse Archive** project is designed to offer a virtual exploration of the history of the metaverse and related technologies. It combines the rich knowledge resources of Wikipedia with a visually captivating and interactive spatial library. The project's goal is to provide users with a unique learning and exploration tool, fostering a deeper understanding of the metaverse. The project is built using the Monaverse platform users can explore the virtual library, click on books to access Wikipedia articles, and learn about the history and evolution of the metaverse and related technologies.
 
+![image](https://github.com/TomMoore515/Metaverse-Archive/assets/16878403/5f2aa22f-98b2-4f18-84b6-68278e002104)
+
 ## Key Features
 
 - **Spatial Design**: The library consists of a room with several bookcases. It is designed to evoke the feel of a traditional library with a metaverse twist.
