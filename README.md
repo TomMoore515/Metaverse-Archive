@@ -1,35 +1,43 @@
-![github_v3](https://user-images.githubusercontent.com/16878403/213307671-f153951f-b0ce-4c19-96a3-321e8254bef7.png)
-<p align="center">Start building your own custom Mona Space using our official template</p>
+![image](https://github.com/TomMoore515/Metaverse-Archive/assets/16878403/31abc9e7-4fce-4de6-9b62-de9c7bdc2a54)
 
-## ⬇️ Unity Version
-This template requires the ```Unity 2022.3.6f1``` version. You can download it here:
-https://unity.com/releases/editor/qa/lts-releases
+<p align="center">Metaverse Archive is an immersive virtual spatial library built using the Monaverse platform. It is dedicated to the history of the metaverse and related emerging technologies. This project offers users a unique opportunity to explore, learn, and interact with the rich history of virtual reality (VR), augmented reality (AR), and other immersive technologies in an experience created using these very technologies.</p>
 
-Be sure to also install ```WebGL Build Support``` or you won't be able to export your space.
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Contributing](#contributing)
+- [Getting Started](#getting-started)
 
+## Project Overview
 
-## 📃 Documentation
+The **Metaverse Archive** project is designed to offer a virtual exploration of the history of the metaverse and related technologies. It combines the rich knowledge resources of Wikipedia with a visually captivating and interactive spatial library. The project's goal is to provide users with a unique learning and exploration tool, fostering a deeper understanding of the metaverse. The project is built using the Monaverse platform users can explore the virtual library, click on books to access Wikipedia articles, and learn about the history and evolution of the metaverse and related technologies.
 
-The official documentation website is [docs.monaverse.com](https://docs.monaverse.com/create/building-spaces/get-started).
+## Key Features
 
-Mona [Video tutorials here](https://docs.monaverse.com/create/resources/mona-tutorials)
+- **Spatial Design**: The library consists of a room with several bookcases. It is designed to evoke the feel of a traditional library with a metaverse twist.
 
+- **Wikipedia API Integration**: The content in the **Metaverse Archive** is sourced directly from Wikipedia, using the Wikipedia REST API. It provides users with access to a vast collection of Wikipedia articles related to the metaverse, VR, AR, and other immersive technologies. Each article is placed spatially on bookshelves, creating an educational and engaging experience.
 
-## 💬 Support
+- **User Interaction**: Users can physically explore the library, click on books to open and read Wikipedia articles. Visual scripting ensures an engaging user experience.
 
-For support, join our [Discord support channel](https://discord.gg/gcrGHzTerU)
+- **Additional Features**: The library may include user-generated content, interactive elements, and visual effects to enhance the immersive experience.
 
-## ⚙️ Template version
-2.0.6
+- **Optimization**: To handle the potentially massive volume of content, efficient data management, streaming, and resource optimization techniques are employed.
 
-## 🔄 Updating Template
+## Contributing
 
-The in-editor [Template Utility](https://docs.monaverse.com/create/building-spaces/mona-tools/template-utility) will notify you of available updates for your project. Stay connected with our community in [Discord](https://discord.gg/gcrGHzTerU) to get detailed updates on what's included in each release!
+Any contributions to the Metaverse Archive project are welcome.
 
-![image](https://github.com/monaverse/SpaceStarter/assets/16878403/66debdad-def6-4af3-8f2b-815d89ea83c4)
+## Getting Started
 
-## 🛠️ Mona Library
+If you simply wish to view the archive directly inside your browser simply go to the following Monaverse Space.
 
-Also, be sure to check out the [Mona Library](https://docs.monaverse.com/create/resources/mona-library) for access to additional tools and pre-built assets from both our team and the wider community.
+https://monaverse.com/spaces/metaverse-archive
 
-![image](https://github.com/monaverse/SpaceStarter/assets/16878403/d8069f0e-8f4c-42db-98c9-10dde00d8fc3)
+To get started with the **Metaverse Archive** Unity project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TomMoore515/Metaverse-Archive.git
+
+2. Open the project using Unity
